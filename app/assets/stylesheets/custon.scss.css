@@ -1,6 +1,25 @@
 html body {
-    background-color: #b0c4de;
+    background-color: #eaeaea;
 }
+
+.col-md-3 {
+  background-color: #ffffff
+}
+
+.col-md-9 {
+  background-color: #ffffff;
+
+}
+
+/* GENERAL STYLES */
+body {
+    font-family: Verdana;
+    background-color: #EAEAEA;
+}
+
+
+
+
 
 .checkbox {
   padding-left: 20px; }

@@ -2,6 +2,22 @@ html body {
     background-color: #eaeaea;
 }
 
+.col-md-9 {
+  background-color: #ffffff;
+
+}
+
+.navbar-default .navbar-brand {
+  font-family: guardian-egyptt, georgia, serif;
+  font-weight: 400;
+  color: #d5641c;
+  font-size: 30px;
+}
+
+
+/* GENERAL STYLES */
+
+
  .user-wrapper .btn {
         border-radius: 0px;
         -webkit-border-radius: 0px;
@@ -9,7 +25,7 @@ html body {
         margin: 5px;
     }
 
-    .user-wrapper  {
+    .user-wrapper .description {
         padding: 25px;
         background-color: #fff;
     }
@@ -17,7 +33,13 @@ html body {
         width:100%;
     }
 
-
+html hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
 
 
 .checkbox {
